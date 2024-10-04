@@ -42,7 +42,7 @@ L'application est divisée en deux parties principales :
 Clonez le dépôt GitHub :
 
 ```sh
-git clone https://github.com/Houssam2001/chatbot-springAi-mistral
+git clone https://github.com/adnanezaki/chatbot-springAi-mistral.git
 cd chatbot-springAi-mistral
 ```
 
